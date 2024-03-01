@@ -1,4 +1,4 @@
-# NXP
+# NXP- WIT Final Project
 
 ### Project : Design and Implementation of FSM-based adder synchronized with clock in Verilog, Verifying it’s working through UVM Testbench.
 
